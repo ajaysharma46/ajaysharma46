@@ -29,6 +29,7 @@ A real-time weather application with dynamic UI and smooth background transition
 
 🔗 Live Demo: https://ajaysharma46.github.io/Weather-App/ <br>
 💻 Code: https://github.com/ajaysharma46/Weather-App
+
 ---
 
 ### 🎯 Interactive UI Projects
