@@ -6,15 +6,17 @@ I enjoy creating interfaces that feel smooth, responsive, and alive.
 
 ---
 
-![68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176617363726970742d6f726967696e616c2e737667](https://github.com/user-attachments/assets/642744ed-b324-42a0-9d60-a8ae3a778dee)
-
 ## 🛠️ Tech Stack
+<br>
+<div>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank">  <img style="margin-right: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" hspace="10"/></a>  </div>
 
-* HTML
-* CSS
-* JavaScript
+<br> <br>
 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+
+
 ## 📌 <ins><mark> Projects </mark> </ins>
 
 
