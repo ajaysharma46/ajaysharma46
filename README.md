@@ -1,16 +1,79 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajay
 
-<!--
-**ajaysharma46/ajaysharma46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building clean, interactive, and user-friendly web experiences using **HTML, CSS, and JavaScript**.
 
-Here are some ideas to get you started:
+I enjoy creating interfaces that feel smooth, responsive, and alive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+* Build responsive and modern websites
+* Create smooth UI animations and transitions
+* Focus on clean design and user experience
+* Turn simple ideas into interactive web apps
+
+---
+
+## 🛠️ Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 📌 Projects
+
+### 🌦️ Weather App
+
+A real-time weather application with dynamic UI and smooth background transitions.
+
+* Live weather data
+* Responsive design
+* Animated interface
+
+---
+
+### 🎯 Interactive UI Projects
+
+A collection of small projects focused on UI/UX and animations.
+
+* Hover and click effects
+* Smooth transitions
+* Clean layouts
+
+---
+
+### 🧩 Mini JavaScript Apps
+
+Simple tools and apps built to strengthen core JavaScript skills.
+
+* DOM manipulation
+* Event handling
+* Functional logic
+
+---
+
+## 📈 Current Focus
+
+* Improving JavaScript fundamentals
+* Building real-world projects
+* Learning advanced UI/UX patterns
+* Making better and smoother user interfaces
+
+---
+
+## 💡 Goal
+
+To become a skilled frontend developer who builds **high-quality, interactive, and visually appealing web applications**.
+
+---
+
+## 📫 Connect With Me
+
+*(You can add your email or social links here later)*
+
+---
+
+⭐ *Always building. Always improving.*
