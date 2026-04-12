@@ -23,9 +23,7 @@ I enjoy creating interfaces that feel smooth, responsive, and alive.
 
 ---
 
-## 📌 Projects
-<mark> mark </mark>
-<p style="background-color:red;"> dfgf</p>
+## 📌 <ins><mark> Projects </mark> </ins>
 
 
 ### 🌦️ Weather App
