@@ -24,7 +24,7 @@ I enjoy creating interfaces that feel smooth, responsive, and alive.
 ---
 
 ## 📌 Projects
-<p style="border:2px solid white"> dsfsd </p>
+<mark> mark </mark>
 
 
 ### 🌦️ Weather App
