@@ -27,7 +27,7 @@ A real-time weather application with dynamic UI and smooth background transition
 * Responsive design
 * Animated interface
 
-🔗 Live Demo: https://ajaysharma46.github.io/Weather-App/ <br>
+🔗 Live Demo: https://ajay-weather.vercel.app/ <br>
 💻 Code: https://github.com/ajaysharma46/Weather-App
 
 ---
