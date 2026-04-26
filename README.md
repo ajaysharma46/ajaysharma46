@@ -40,7 +40,7 @@ This is the latest Netflix Clone
 * Smooth transitions
 * Clean layouts
 
-🔗 Live Demo: https://ajay-Netflix.vercel.app/ <br>
+🔗 Live Demo:https://ajay-netflix-clone.vercel.app/ <br>
 💻 Code: https://github.com/ajaysharma46/Netflix-Clone
 
 
