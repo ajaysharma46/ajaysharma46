@@ -69,7 +69,7 @@ To become a skilled frontend developer who builds **high-quality, interactive, a
 
 ## 📫 Connect With Me
 
-*(You can add your email or social links here later)*
+Email: ajisfd@gmail.com
 
 ---
 
