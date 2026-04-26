@@ -32,13 +32,17 @@ A real-time weather application with dynamic UI and smooth background transition
 
 ---
 
-### 🎯 Interactive UI Projects
+### Netflix Clone (latest clone)
 
-A collection of small projects focused on UI/UX and animations.
+This is the latest Netflix Clone 
 
 * Hover and click effects
 * Smooth transitions
 * Clean layouts
+
+🔗 Live Demo: https://ajay-Netflix.vercel.app/ <br>
+💻 Code: https://github.com/ajaysharma46/Netflix-Clone
+
 
 ---
 
