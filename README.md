@@ -46,13 +46,16 @@ This is the latest Netflix Clone
 
 ---
 
-### 🧩 Mini JavaScript Apps
+### 🧩 Todo List App
 
-Simple tools and apps built to strengthen core JavaScript skills.
+Simple Todo List app.
 
 * DOM manipulation
 * Event handling
 * Functional logic
+
+🔗 Live Demo:https://todo-list-ajaysharma.vercel.app/ <br>
+💻 Code: https://github.com/ajaysharma46/Todo-List
 
 ---
 
